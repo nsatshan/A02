@@ -55,6 +55,10 @@ Note** if you want to connect git to github then you’ll need the ssh code whic
 15. You can also get the SSH code for either git or any other apps to use it with github. This allows you to do all of the steps above using a different app.
 
 
+
+
+
+
 __PART2 :__
 
 **glossory:**
